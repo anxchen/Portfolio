@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/your-repo/static/css/main.f3612727.css",
+    "main.js": "/your-repo/static/js/main.328dd1e7.js",
+    "static/media/hero-dark.jpg": "/your-repo/static/media/hero-dark.37f2556d620821979e99.jpg",
+    "static/media/hero-light.jpg": "/your-repo/static/media/hero-light.78b77836d8aee4d7d3cb.jpg",
+    "service-worker.js": "/your-repo/service-worker.js",
+    "static/media/GH.svg": "/your-repo/static/media/GH.b9e9a9aa6f05e9dfe5dcb8991bda3e4d.svg",
+    "static/media/defaultNavLogo.svg": "/your-repo/static/media/defaultNavLogo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/logo.svg": "/your-repo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/your-repo/index.html",
+    "main.f3612727.css.map": "/your-repo/static/css/main.f3612727.css.map",
+    "main.328dd1e7.js.map": "/your-repo/static/js/main.328dd1e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3612727.css",
+    "static/js/main.328dd1e7.js"
+  ]
+}
